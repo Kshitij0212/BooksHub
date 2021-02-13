@@ -1,0 +1,56 @@
+
+body{
+    /*background-color: red;*/
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-color: rgba(0,0,0);*/
+    background-blend-mode: darken;
+}
+
+.logo{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.nav-item{
+    font-size: 20px;
+}
+
+.welcome{
+    font-family: 'Sriracha', cursive;
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.login, .login1{
+    text-align: center;
+}
+.login{
+    padding-top: 100px;
+    color:beige;
+    font-family: 'Lexend Mega', sans-serif;
+}
+
+.login1{
+    padding-top: 10px;
+    padding-right: 50px;
+}
+
+.sub{
+    background-color: #4CAF50;
+    color: white;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px 15px;;
+}
+.signup{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    color: rgb(27, 4, 4);
+}
